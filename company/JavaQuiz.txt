@@ -1,0 +1,18 @@
+That is Java?
+programming language
+class
+object
+scene
+
+How to declare a class in code?
+class MyClass {}
+new class MyClass {}
+select class MyClass{}
+MyClass extends class {}
+
+A {blank} of apple
+companies
+
+An abstract class can be used just like a nonabstract class except that you cannot use the new operator to create an instance from the abstract class.
+True
+False
